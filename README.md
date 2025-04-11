@@ -25,10 +25,9 @@ Desenvolver um sistema computacional de baixo custo capaz de detectar, em tempo 
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Python 3
+- Python 
 - OpenCV
 - NumPy
-- (Futuramente) Deep Learning para reconhecimento de ações
 
 ---
 
